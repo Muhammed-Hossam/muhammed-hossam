@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, I'm Muhammed 👋 </h1>
 
-<hr />
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-haroun-23803521a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -21,7 +20,7 @@ I'm a Frontend Web Developer who is passionate about technologies. Fast learner 
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vuejs](https://img.shields.io/badge/-Vue-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Vuejs](https://img.shields.io/badge/-Vuejs-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
