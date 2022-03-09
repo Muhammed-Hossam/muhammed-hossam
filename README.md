@@ -6,7 +6,7 @@
     <a href="https://twitter.com/mohamed89147506"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   </p>
   
-  <img src="https://img.favpng.com/13/21/18/programmer-php-software-developer-application-programming-interface-laravel-png-favpng-z9LM2tWW1CZzjd7TTW0TmpRGV.jpg" align="right" width="25%"/>
+  <img src="https://image.similarpng.com/very-thumbnail/2020/11/Programmer-Engineering-Development-Illustration-on-transparent-background-PNG.png" align="right" width="25%"/>
 
 I'm a Frontend Web Developer who is passionate about technologies. Fast learner and flexable.
 
