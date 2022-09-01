@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there, Mohamed Haroun 👋 </h1> <h5 align="center">Junior Frontend Web Developer</h5>
+<h1 align="center"> Hi there, Mohamed Haroun 👋 </h1> 
+<h4 align="center">Junior Frontend Web Developer</h4>
 
 
 
