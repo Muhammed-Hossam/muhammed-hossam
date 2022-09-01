@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohamed-haroun-23803521a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamed--haroun"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/mohamed89147506"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   </p>
   
