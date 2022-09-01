@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Muhammed 👋 </h1>
+<h1 align="center"> Hi there, Mohamed Haroun 👋 </h1>
 
 
 <p align="center">
@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/mohamedabusrea/mohamedabusrea/master/profile-img.png" align="right" width="25%"/>
 
 I'm a Frontend Web Developer who is passionate about technologies. Fast learner and flexable.
+I have a solid understanding of dealing with client-side, Building responsive web design, and handling APIs.
 
 
 
